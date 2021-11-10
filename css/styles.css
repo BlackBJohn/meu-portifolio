@@ -11402,7 +11402,10 @@ p.lead {
 .social-icons .social-icon:hover {
   background-color: #bd5d38;
 }
-
+.social-icons:hover{
+  background-color: 3, 22, 130;
+  transition: 0.5s;
+}
 .dev-icons {
   font-size: 3rem;
 }
