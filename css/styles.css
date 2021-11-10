@@ -4057,7 +4057,6 @@ textarea.form-control-lg {
   font-size: 1.25rem;
   text-decoration: none;
   white-space: nowrap;
-  background-color: blue;
 }
 .navbar-nav {
   display: flex;
@@ -4127,6 +4126,7 @@ textarea.form-control-lg {
   .navbar-expand-sm {
     flex-wrap: nowrap;
     justify-content: flex-start;
+    background-color: blue;
   }
   .navbar-expand-sm .navbar-nav {
     flex-direction: row;
